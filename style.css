@@ -1,0 +1,108 @@
+.prvnistranka{
+    background-color: black;
+    display: flex;
+    justify-content: space-between;
+}
+
+.druhastranka{
+    background-image: url("obrazky/K1.jpg");
+    display: flex;
+    justify-content: space-between;
+}
+
+.tretistranka{
+    background-image: url("obrazky/K2\ -\ stránka1.jpg");
+    display: flex;
+    justify-content: space-between;
+}
+
+.ctvrtastranka {
+    background-image: url("obrazky/K3\ -\ stránka1.jpg");
+    display: flex;
+    justify-content: space-between;
+}
+
+.patastranka {
+    background-image: url("obrazky/K4\ -\ stránka1.jpg");
+    display: flex;
+    justify-content: space-between;
+}
+
+.sestastranka {
+    background-image: url("obrazky/K5\ -\ stránka1.jpg");
+    display: flex;
+    justify-content: space-between;
+}
+
+.sedmastranka {
+    background-image: url("obrazky/K6\ -\ stránka1.jpg");
+    display: flex;
+    justify-content: space-between;
+}
+
+.osmastranka {
+    background-image: url("obrazky/K7\ -\ stránka.jpg");
+    display: flex;
+    justify-content: space-between;
+}
+
+.devatastranka {
+    background-image: url("obrazky/K8\ -\ stránka.jpg");
+    display: flex;
+    justify-content: space-between;
+}
+
+.desatastranka {
+    background-image: url("obrazky/K9\ -\ stránka.jpg");
+    display: flex;
+    justify-content: space-between;
+}
+
+.jedenactastranka {
+    background-image: url("obrazky/K10\ -\ stránka.jpg");
+    display: flex;
+    justify-content: space-between;
+}
+
+.dvanactastranka {
+    background-image: url("obrazky/K11\ -\ stránka.jpg");
+    display: flex;
+    justify-content: space-between;
+}
+
+.trinactastranka {
+    background-image: url("obrazky/K12\ -\ stránka.jpg");
+    display: flex;
+    justify-content: space-between;
+}
+
+.pismenka{
+    margin: auto;
+    margin-top: 300px;
+}
+
+.posledni{
+    margin-right: 880px;
+    margin-top: 35px;
+}
+
+h1{
+    color: white;
+    font-family: 'Oswald', sans-serif;
+    font-size: 50px;
+    text-align: center;
+}
+
+i{
+    color: white;
+    font-size: 100px;
+    margin-top: 500px;
+}
+
+i:hover{
+    color: lightgray;
+}
+
+i:active{
+    color: gray;
+}
